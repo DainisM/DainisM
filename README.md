@@ -1,10 +1,11 @@
 ### Hi there 👋, my name is Dainis
 #### I am 23 years old guy from Denmark who loves to code and learn new things
-I am currently in school at [TEC](https://www.tec.dk/) studying for IT-technical with specialty in programming (Datatekniker med speciale i programmering).
-I love technology and to learn new things. In my spare time I also play PC games :video_game:.
+I am currently in school at [TEC](https://www.tec.dk/) studying for IT-technical with specialty in programming (Datatekniker med speciale i programmering). 
+I love technology and to learn new things. In my spare time I also play PC games :video_game:.  
 My other hobbies are cars & motorcycles and I love to take road trips and fishing :fish:.
 
-Skills: C# / React JS / React Native / JS / HTML / CSS
+<b>Skills</b>: C# / React JS / React Native / JS / HTML / CSS / SQL / Basics of DevOps, SCRUM and Agile principles.  
+Also a bit of Java & Python (very basics but hope to learn more in near future)
 
 - 🔭 I’m currently working on my portfolio website ([DainisM](https://dainism.github.io/dainis-portfolio/)) 
 - 🌱 I’m currently learning more about React JS 
