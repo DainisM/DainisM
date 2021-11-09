@@ -7,8 +7,8 @@
 ### <b>Skills</b>: C# / React JS / React Native / JS / HTML / CSS / SQL / Basics of DevOps, SCRUM and Agile principles.  
 ### Also a bit of Java & Python (very basics but hope to learn more in near future)
 
-### - 🔭 I’m currently working on my portfolio website ([Dainis](https://dainis.dk)) 
-### - 🌱 I’m currently learning more about React JS 
+### - 🔭 You can see more on my portfolio website ([Dainis](https://dainis.dk)) 
+### - 🌱 I’m currently learning Kotlin
 ### - 📫 How to reach me: moisejenko11@gmail.com 
 
 
