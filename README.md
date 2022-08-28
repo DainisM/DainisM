@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Dainis
 ## I am 24 years old guy from Denmark who loves to code and learn new things
-### I am currently in school at [TEC](https://www.tec.dk/) studying for Data Technician specialising in programming (Datatekniker med speciale i programmering). 
+### I just finished my education at [TEC](https://www.tec.dk/) studying for Data Technician specialising in programming (Datatekniker med speciale i programmering). 
 ### I love technology and to learn new things. In my spare time I also play PC games :video_game:.  
 ### My other hobbies are cars & motorcycles and I love to take road trips and fishing :fish:.
 
@@ -8,7 +8,6 @@
 ### Also a bit of Java & Python (very basics but hope to learn more in near future)
 
 ### - 🔭 You can see more on my portfolio website ([Dainis](https://dainis.dk)) 
-### - 🌱 I’m currently learning Kotlin
 ### - 📫 How to reach me: moisejenko11@gmail.com 
 
 
