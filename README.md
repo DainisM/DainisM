@@ -4,8 +4,17 @@
 ### I love technology and to learn new things. In my spare time I also play PC games :video_game:.  
 ### My other hobbies are cars & motorcycles and I love to take road trips and fishing :fish:.
 
-### <b>Skills</b>: C# / React JS / React Native / JS / HTML / CSS / SQL / Basics of DevOps, SCRUM and Agile principles.  
-### Also a bit of Java & Python (very basics but hope to learn more in near future)
+### <b>Skills</b>: 
+* HTML, CSS, JavaScript
+* ReactJs and ReactNative
+* C# and .Net with Entity Framework
+* SQL, MongoDb
+* REST API written in NodeJS with Express, GraphQL
+* Tried a bit of Python and Java
+* Basics of ITIL Business cases and ITIL principles in documentation
+* Basics of DevOps, SCRUM and Agile principles
+* Lately I've been focusing and working more with the MERN stack.
+
 
 ### - 🔭 You can see more on my portfolio website ([Dainis](https://dainis.dk)) 
 ### - 📫 How to reach me: moisejenko11@gmail.com 
