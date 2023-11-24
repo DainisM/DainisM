@@ -1,19 +1,18 @@
 # Hi there 👋, my name is Dainis
-## I am 25 years old guy from Denmark who loves to code and learn new things
-### I just finished my education at [TEC](https://www.tec.dk/) studying for Data Technician specialising in programming (Datatekniker med speciale i programmering). 
+## I am 26 years old guy from Denmark who loves to code and learn new things
+### I finished my education at [TEC](https://www.tec.dk/) studying for Data Technician specialising in programming (Datatekniker med speciale i programmering).
+### Now working as a Junior Full Stack Developer with focus mainly in MERN stack
 ### I love technology and to learn new things. In my spare time I also play PC games :video_game:.  
 ### My other hobbies are cars & motorcycles and I love to take road trips and fishing :fish:.
 
 ### <b>Skills</b>: 
-* HTML, CSS, JavaScript
-* ReactJs and ReactNative
-* C# and .Net with Entity Framework
+* HTML, CSS, JavaScript, C#, Python
+* ReactJS, ReactNative, ASP.NET, Entity Framework, Bootstrap
 * SQL, MongoDb
-* REST API written in NodeJS with Express, GraphQL
-* Tried a bit of Python and Java
+* REST API - Node.js + Express.js, GraphQL
+* Other things I have tried/learning now - Java, MaterialUI, Tailwind CSS, Redux, RTK Query, TypeScript
 * Basics of ITIL Business cases and ITIL principles in documentation
 * Basics of DevOps, SCRUM and Agile principles
-* Lately I've been focusing and working more with the MERN stack.
 
 
 ### - 🔭 You can see more on my portfolio website ([Dainis](https://dainis.dk)) 
